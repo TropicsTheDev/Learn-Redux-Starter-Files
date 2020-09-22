@@ -3,6 +3,7 @@
 // 2. copy of state
 
 function posts(state = [], action) {
+  
   return state;
 }
 
